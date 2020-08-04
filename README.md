@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=45&theme=default&include_all_commits=true">
   
-  <img width="350" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+  <img width="348" height="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
   </div>
   <p align="center">
 </p>
