@@ -21,14 +21,25 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Travis Byrman</h1>
   <p align="center">
-    <a>:motorcycle:</a> •
-    <a>:satisfied:</a> •
-    <a>:speech_balloon:</a> •
-    <a>:running:</a>
-    <a>:motorcycle:</a> •
-    <a>:satisfied:</a> •
-    <a>:speech_balloon:</a> •
-    <a>:running:</a>
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    <a>:ocean:</a> •
+    <a>:zap:</a> •
+    
   </p>
   </div>
   <br />
