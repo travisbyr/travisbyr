@@ -19,38 +19,17 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h3>Travis Byrman</h1>
+  <h1>Travis Byrman</h1>
   <p align="center">
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
+    <a>:fireworks:</a>
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
+    <a>:fireworks:</a>
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
+    <a>:fireworks:</a>
   </p>
   </div>
   <br />
