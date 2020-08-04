@@ -51,10 +51,7 @@ Here are some ideas to get you started:
     <a>:sparkler:</a>
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
+    <a>:fireworks:</a>
   </p>
   </div>
   <br />
