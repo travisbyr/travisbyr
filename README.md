@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Travis Byrman</h3>
   <p align="center">
-    <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
-    <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
-    <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">Linkedin</a> •
-    <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
+    <a>:motorcycle:</a> •
+    <a>:satisfied:</a> •
+    <a>:speech_balloon:</a> •
+    <a>:running:</a>
   </p>
   </div>
   <br />
-  <center><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=33.8&theme=default&include_all_commits=true" /></center>
+  <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=33.8&theme=default&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
   <br />
 <a>
