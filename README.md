@@ -25,6 +25,10 @@ Here are some ideas to get you started:
     <a>:satisfied:</a> •
     <a>:speech_balloon:</a> •
     <a>:running:</a>
+    <a>:motorcycle:</a> •
+    <a>:satisfied:</a> •
+    <a>:speech_balloon:</a> •
+    <a>:running:</a>
   </p>
   </div>
   <br />
