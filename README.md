@@ -1,13 +1,13 @@
 
 ![Travis's github stats](https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()
 
 
 
 <!--
 **travisbyr/travisbyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://travisbyr.vercel.app">
+
 
 Here are some ideas to get you started:
 
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
   <br />
   <br />
   <br />
