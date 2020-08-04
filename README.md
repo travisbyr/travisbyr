@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div>
+<div align="center">
   <h3>Travis Byrman</h3>
   <p align="center">
     <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
