@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Travis Byrman</h1>
-  <p align="center">
+  <!-- <p align="center">
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
     <a>:fireworks:</a>
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     <a>:fireworks:</a> 
     
   </p>
+   -->
   </div>
   <br />
     
