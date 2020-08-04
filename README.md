@@ -33,14 +33,14 @@ Here are some ideas to get you started:
   </p>
   </div>
   <br />
-    <br />
+    
   
   <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=35&theme=default&include_all_commits=true"></a>
  <!-- 
   <a><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>
  --> 
- 
+ <br />
 <a>
     <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png" />
   </a>
