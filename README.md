@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <a><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>
  --> 
  <br />
+  <br />
 <a>
     <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png" />
   </a>
