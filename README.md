@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div>
   <h3>Travis Byrman</h3>
   <p align="center">
     <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
   </p>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=33.8&line_height=10&theme=default&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=33.8&theme=default&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
   <br />
 <a>
