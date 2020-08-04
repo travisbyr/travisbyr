@@ -27,14 +27,11 @@ Here are some ideas to get you started:
     <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
   </p>
   <br />
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=45&theme=default&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
   <br />
-  <br />
-  <br />
+
   <a href="https://github.com/omidnikrah/profile-activity-generator">
-    <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+    <img src="https://raw.githubusercontent.com/travisbyr/travisbyr/master/activity-profile.png" />
   </a>
 </div>
