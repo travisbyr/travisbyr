@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </p>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=45&theme=default&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&line_height=45)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&line_height=10000)](https://github.com/anuraghazra/github-readme-stats" />
   <br />
 <a>
     <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png" />
