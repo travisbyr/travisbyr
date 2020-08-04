@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
   <br />
 
-  <a href="https://github.com/travisbyr/profile-activity-generator">
-    <img src="https://raw.githubusercontent.com/travisbyr/travisbyr/master/activity-profile.png" />
+  <a ">
+    <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
   </a>
 </div>
