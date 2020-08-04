@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h2>Travis Byrman</h2>
+  <h1>Travis Byrman</h1>
   <p align="center">
     <a>:motorcycle:</a> •
     <a>:satisfied:</a> •
