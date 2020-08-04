@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h1>Travis Byrman</h1>
+  <h1>:boom: Travis Byrman :boom:</h1>
   <!-- <p align="center">
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
