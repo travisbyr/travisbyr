@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/travisbyr/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&theme=radical" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&theme=radical" />
 </a>
 
   
