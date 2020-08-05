@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" src="https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
+<img width="400" src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif">
 </div>
 <br>
 <div>
