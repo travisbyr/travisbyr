@@ -1,4 +1,4 @@
-<h1 align="center">Helloooooo, I'm Travis.</h1>
+<h1 align="center">Helloooooo, I'm Travis :motorcycle: :computer: :vhs: :cd: :floppy_disk: :space_invader:</h1>
 <div align="center">
   <img width="400" src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif">
 </div>
