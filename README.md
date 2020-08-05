@@ -1,6 +1,9 @@
 
-<!--
-**travisbyr/travisbyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>Hi, I'm Travis</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien. Fusce porttitor consectetur magna, ut commodo elit bibendum non. Sed est libero, eleifend nec lectus nec, feugiat sodales nibh. Donec laoreet, turpis ac efficitur tempor, turpis eros lobortis nulla, quis posuere sapien justo at mauris. Curabitur venenatis eros consequat, mattis lectus id, elementum augue. Pellentesque ac nisl lobortis, ullamcorper eros ut, dignissim massa. Etiam malesuada euismod facilisis. Suspendisse potenti. Phasellus venenatis sollicitudin mattis.</p>
+  
+<!-- **travisbyr/travisbyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 Here are some ideas to get you started:
@@ -15,22 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
--->
+dawdwadadwadawdawdadadwd
+<h1>My Statistics</h1>
 
-
-<div>
-  <h1>Hi, I'm Travis</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien. Fusce porttitor consectetur magna, ut commodo elit bibendum non. Sed est libero, eleifend nec lectus nec, feugiat sodales nibh. Donec laoreet, turpis ac efficitur tempor, turpis eros lobortis nulla, quis posuere sapien justo at mauris. Curabitur venenatis eros consequat, mattis lectus id, elementum augue. Pellentesque ac nisl lobortis, ullamcorper eros ut, dignissim massa. Etiam malesuada euismod facilisis. Suspendisse potenti. Phasellus venenatis sollicitudin mattis.</p>
-  <p align="center">
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a>
-    <a>:fireworks:</a> 
-    <a>:sparkler:</a>
-    <a>:fireworks:</a>
-    <a>:fireworks:</a> 
-    
-  </p>
 
   </div>
   <br />
@@ -52,7 +42,7 @@ Here are some ideas to get you started:
  
 
   
-  <h1>Now Playing on Spotify</h1>
+  <h1>Playing now on Spotify</h1>
 
 <a href="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing?open">
     <img src="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
