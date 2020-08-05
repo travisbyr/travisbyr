@@ -33,6 +33,7 @@ Here are some ideas to get you started:
    -->
   </div>
   <br />
+  <div align="center">
     <a href="https://github.com/travisbyr/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&theme=radical" alt="travisbyr's github stats" />
 </a>
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&theme=radical" />
 </a>
+</div>
 
   
   <div>
