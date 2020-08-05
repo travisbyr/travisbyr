@@ -43,6 +43,17 @@ Here are some ideas to get you started:
  
  <br />
   <br />
+  
+  **Now Playing** on Spotify
+
+<a href="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
+ <br />
+  <br />
+  
+
 <a>
     <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png" />
   </a>
