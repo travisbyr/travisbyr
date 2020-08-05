@@ -1,6 +1,6 @@
 <h1 align="center">Helloooooo, I'm Travis :motorcycle:</h1>
 <div align="center">
-  <img width="400" src="https://thumbs.gfycat.com/ShallowAccurateBrownbear-size_restricted.gif">
+  <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
 
 <br>
