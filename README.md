@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <h1>:boom: Travis Byrman :boom:</h1>
+<div>
+  <h1>Hi, I'm Travis</h1>
   <!-- <p align="center">
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </a>
 
   
-  <div align="center">
+  <div>
 <!--    <a><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=35&theme=default&include_all_commits=true"></a> -->
 
 <!--   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>-->
