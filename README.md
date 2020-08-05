@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </div>
   <br />
     <a href="https://github.com/travisbyr/github-readme-stats">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&theme=radical" alt="travisbyr's github stats" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&theme=radical" alt="travisbyr's github stats" />
 </a>
 <a href="https://github.com/travisbyr/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
