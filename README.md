@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <div>
   <h1>Hi, I'm Travis</h1>
-  <!-- <p align="center">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien. Fusce porttitor consectetur magna, ut commodo elit bibendum non. Sed est libero, eleifend nec lectus nec, feugiat sodales nibh. Donec laoreet, turpis ac efficitur tempor, turpis eros lobortis nulla, quis posuere sapien justo at mauris. Curabitur venenatis eros consequat, mattis lectus id, elementum augue. Pellentesque ac nisl lobortis, ullamcorper eros ut, dignissim massa. Etiam malesuada euismod facilisis. Suspendisse potenti. Phasellus venenatis sollicitudin mattis.</p>
+  <p align="center">
     <a>:fireworks:</a> 
     <a>:sparkler:</a>
     <a>:fireworks:</a>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
     <a>:fireworks:</a> 
     
   </p>
-   -->
+
   </div>
   <br />
   <div align="center">
