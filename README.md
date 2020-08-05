@@ -1,7 +1,6 @@
 
 <div>
-  <h1 style="border:none">Hello, I'm Travis</h1>
-  <hr>
+  <h1 style="border-bottom:2px solid black">Hello, I'm Travis</h1>
   <h3 align="center">Listening to now on Spotify</h3>
   <div align="center">
   <a href="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing?open">
