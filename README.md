@@ -33,10 +33,17 @@ Here are some ideas to get you started:
    -->
   </div>
   <br />
-    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
+
   
   <div align="center">
-   <a><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=35&theme=default&include_all_commits=true"></a>
+<!--    <a><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=35&theme=default&include_all_commits=true"></a> -->
   <br/>
   <br/> 
 <!--   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>
