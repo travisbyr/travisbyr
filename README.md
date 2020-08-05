@@ -3,17 +3,19 @@
 </div>
 <br>
 <div>
-  <h1>Hello, I'm Travis</h1>
+  <h1>Hello, I'm Travis.</h1>
+  
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien.</p>
+  <hr>
   <h3 align="center">Listening to now on Spotify</h3>
   <div align="center">
   <a href="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing?open">
     <img src="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 </div>
+<hr>
 
-<br>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien.</p>
-  
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
