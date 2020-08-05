@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div>
+<div align="center">
   <h1>Hi, I'm Travis</h1>
   <!-- <p align="center">
     <a>:fireworks:</a> 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
     
   </p>
    -->
-  </div>
+  
   <br />
-  <div align="center">
+  <div>
     <a href="https://github.com/travisbyr/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&theme=radical" alt="travisbyr's github stats" />
 </a>
