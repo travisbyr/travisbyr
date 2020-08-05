@@ -40,19 +40,7 @@ dawdwadadwadawdawdadadwd
 
   
   <div>
-<!--    <a><img src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&line_height=35&theme=default&include_all_commits=true"></a> -->
 
-<!--   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></a>-->
- 
-
-  
-  <!-- <h2>Playing now on Spotify</h2> -->
-
-
-
- <br />
- <br />
-  
   <h2>Programming Languages</h2>
   <div align="center">
   <img width="80" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270">
@@ -60,7 +48,8 @@ dawdwadadwadawdawdadadwd
   <img width="80" src="https://camo.githubusercontent.com/353858877ecb88cbb32c9c013f2f6c7cbf1527de/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270">
   <img width="80" src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270">
   </div>
-
+<br></br>
+<br></br>
   <div align="center">
 <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png">
   </div>
