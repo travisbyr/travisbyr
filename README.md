@@ -1,5 +1,4 @@
 <h1>Hello, I'm Travis. :motorcycle:</h1>
-<br>
 <div align="center">
   <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
