@@ -15,7 +15,7 @@
 </div>
 <hr>
 
-Here are some ideas to get you started:
+**Learn a bit more about me:**
 
 - :cd: I’m currently working on ...
 - :dvd: I’m currently learning ...
@@ -49,3 +49,6 @@ dawdwadadwadawdawdadadwd
 <div align="center">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/image1.png">
 </div>
+
+Support this open source repo by using
+[![Flattr this git repo](:motorcycle:)](https://flattr.com/submit/auto?user_id=ChristianEngvall&url=https://github.com/crilleengvall/GitUndo&title=GitUndo&language=&tags=github&category=software)
