@@ -2,9 +2,7 @@
 <div align="center">
   <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
-
 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien.</p> -->
-
 <hr>
 <div align="center">
   <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
