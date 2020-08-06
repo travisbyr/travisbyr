@@ -1,6 +1,5 @@
-
+<h1>Hello, I'm Travis. :dvd: :cd: :minidisc: :vhs: :floppy_disk:</h1>
 <div align="center">
-  <h1>Hello, I'm Travis.</h1>
   <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
 <br>
