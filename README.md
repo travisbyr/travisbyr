@@ -9,8 +9,8 @@
   <hr>
   <h3 align="center">Listening to now on Spotify</h3>
   <div align="center">
-  <a href="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-git-master.travisbyr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
+    <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
   </a>
 </div>
 <hr>
