@@ -13,7 +13,7 @@
   </a>
 </div>
 <hr>
-
+<!--
 **Learn a bit more about me:**
 
 - :cd: I’m currently working on ...
@@ -26,6 +26,7 @@
 dawdwadadwadawdawdadadwd
 
 <h2>My Statistics</h2>
+-->
 <br>
 <div align="center">
   <a href="https://github.com/travisbyr/github-readme-stats">
