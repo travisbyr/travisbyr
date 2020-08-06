@@ -28,7 +28,6 @@ dawdwadadwadawdawdadadwd
 
 <h2>My Statistics</h2>
 -->
-<br>
 <h3>Here are my statistics...</h3>
 <br>
 
@@ -41,10 +40,10 @@ dawdwadadwadawdawdadadwd
   </a>
 </div>
 <br>
-
+<hr>
 <h3>Programming Languages</h3>
 
-<hr>
+
 <div align="center">
   <a href="https://www.javascript.com">
     <img width="80" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270">
