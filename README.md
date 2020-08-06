@@ -27,5 +27,5 @@
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/7a222a55e119c5abe4d4e21e72066b5cca40f67f/68747470733a2f2f616e64797275777275772e76657263656c2e6170702f6170692f736b696c6c73">
-  <img width="100" src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+  <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
 </div>
