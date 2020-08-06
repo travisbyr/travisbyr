@@ -28,7 +28,8 @@ dawdwadadwadawdawdadadwd
 
 <h2>My Statistics</h2>
 -->
-Here is my statistics...
+<br>
+<h3>Here are my statistics...</h3>
 <br>
 
 <div align="center">
@@ -40,9 +41,9 @@ Here is my statistics...
   </a>
 </div>
 <br>
-<!--
-<h2>Programming Languages</h2>
--->
+
+<h3>Programming Languages</h3>
+
 <hr>
 <div align="center">
   <a href="https://www.javascript.com">
