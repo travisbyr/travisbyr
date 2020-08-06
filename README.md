@@ -1,4 +1,4 @@
-<h1>Hello, I'm Travis. :dvd: :cd: :minidisc: :vhs: :floppy_disk:</h1>
+<h1>:floppy_disk: Hello, I'm Travis. :floppy_disk:</h1>
 <div align="center">
   <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
