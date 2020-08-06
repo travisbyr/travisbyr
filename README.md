@@ -1,5 +1,5 @@
 <h1>Hello, I'm Travis.</h1>
-<div>
+<div align="center">
   <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif">
 </div>
 
