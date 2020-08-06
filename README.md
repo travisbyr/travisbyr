@@ -27,7 +27,7 @@ dawdwadadwadawdawdadadwd
 
 <h2>My Statistics</h2>
 -->
-
+<br>
 <div align="center">
   <a href="https://github.com/travisbyr/github-readme-stats">
     <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&theme=radical" alt="travisbyr's github stats" />
@@ -36,6 +36,7 @@ dawdwadadwadawdawdadadwd
     <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&theme=radical" />
   </a>
 </div>
+<br>
 <!--
 <h2>Programming Languages</h2>
 -->
