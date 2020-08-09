@@ -22,7 +22,7 @@
   </a>
 </div>
 <hr>
-<h3>Here are my statistics...</h3>
+<h3>🤘🏻 Here are my statistics</h3>
 <br>
 <div align="center">
   <a href="https://github.com/travisbyr/github-readme-stats">
@@ -34,7 +34,7 @@
 </div>
 <br>
 <hr>
-<h3>Programming languages I like...</h3>
+<h3>📚 Programming languages I like</h3>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/7a222a55e119c5abe4d4e21e72066b5cca40f67f/68747470733a2f2f616e64797275777275772e76657263656c2e6170702f6170692f736b696c6c73">
