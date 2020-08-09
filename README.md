@@ -4,13 +4,14 @@
 
   <br>
   <br>
+  
   <!-- <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif"> -->
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
+  
+  <br>
+  <br>
     <h3>Hello, I'm Travis. :motorcycle:</h3>
-    
-  <br>
-  <br>
       <p align="center">
     <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
     <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
