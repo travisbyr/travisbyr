@@ -6,12 +6,12 @@
   <br>
   <br>
   <h3>Hello there, I'm Travis. :motorcycle:</h3>
-  <!-- <p align="center">
-    <a target="_blank" href="#">Soon</a> •
-    <a target="_blank" href="#">Soon</a> •
-    <a target="_blank" href="#">Soon</a> •
-    <a target="_blank" href="#">Soon</a>
-  </p> -->
+  <p align="center">
+    <a target="_blank" href="#">Coming Soon</a> •
+    <a target="_blank" href="#">Coming Soon</a> •
+    <a target="_blank" href="#">Coming Soon</a> •
+    <a target="_blank" href="#">Coming Soon</a>
+  </p>
   <br>
 </div>
 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien.</p> -->
