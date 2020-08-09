@@ -7,6 +7,8 @@
     <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">Linkedin</a> •
     <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
   </p>
+  <br>
+  <br>
   <!-- <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif"> -->
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
