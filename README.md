@@ -5,7 +5,7 @@
   <!-- <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif"> -->
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
-
+<hr>
   <br>
   <br>
     <h3>Hello, I'm Travis. :motorcycle:</h3>
