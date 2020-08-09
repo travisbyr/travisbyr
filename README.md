@@ -1,6 +1,12 @@
 
 <div align="center">
   <h3>Hello, I'm Travis. :motorcycle:</h3>
+    <p align="center">
+    <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
+    <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
+    <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">Linkedin</a> •
+    <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
+  </p>
   <!-- <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif"> -->
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
