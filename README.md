@@ -7,6 +7,7 @@
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
 
   <br>
+  <br>
     <h3>Hello, I'm Travis. :motorcycle:</h3>
       <p align="center">
     <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
