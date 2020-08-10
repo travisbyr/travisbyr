@@ -18,7 +18,7 @@
 <hr>
 <div align="center"> 
   <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
-    <img src="https://github.com/travisbyr/andyruwruw/blob/master/example/now-playing.svg">
+   
   </a>
     <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
