@@ -7,10 +7,10 @@
   <br>
   <h3>Hello there, I'm Travis. :motorcycle:</h3>
   <p align="center">
-    <a target="_blank" href="#">Spotify</a> •
-    <a target="_blank" href="#">GitHub</a> •
-    <a target="_blank" href="#">Blog</a> •
-    <a target="_blank" href="#">README.md</a>
+    <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
+    <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
+    <a target="_blank" href="https://travisbyr.github.io">Blog</a> •
+    <a target="_blank" href="https://github.com/andyruwruw">README.md</a>
   </p>
   <br>
 </div>
