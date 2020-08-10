@@ -7,10 +7,10 @@
   <br>
   <h3>Hello there, I'm Travis. :motorcycle:</h3>
   <p align="center">
-    <a target="_blank" href="#">Coming Soon</a> •
-    <a target="_blank" href="#">Coming Soon</a> •
-    <a target="_blank" href="#">Coming Soon</a> •
-    <a target="_blank" href="#">Coming Soon</a>
+    <a target="_blank" href="#">Spotify</a> •
+    <a target="_blank" href="#">GitHub</a> •
+    <a target="_blank" href="#">Blog</a> •
+    <a target="_blank" href="#">ReadMe Inspiration</a>
   </p>
   <br>
 </div>
