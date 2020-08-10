@@ -10,7 +10,7 @@
     <a target="_blank" href="#">Spotify</a> •
     <a target="_blank" href="#">GitHub</a> •
     <a target="_blank" href="#">Blog</a> •
-    <a target="_blank" href="#">ReadMe Inspiration</a>
+    <a target="_blank" href="#">README Ideas</a>
   </p>
   <br>
 </div>
