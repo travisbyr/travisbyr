@@ -18,6 +18,9 @@
 <hr>
 <div align="center">
   <img src="https://github.com/travisbyr/andyruwruw/blob/master/example/now-playing.svg">
+    <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
+    <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
+  </a>
   <hr>
 </div>
 <h3>🤘🏻 Here are my statistics.</h3>
@@ -32,10 +35,6 @@
 </div>
 <br>
 <hr>
-  <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
-    <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
-  </a>
-  <hr>
 <h3>📚 Programming languages I like.</h3>
 
 <div align="center">
