@@ -4,7 +4,7 @@
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
   <br>
-  <br>
+<!--   <br> -->
   <h3>Hello there, I'm Travis. :motorcycle:</h3>
   <p align="center">
     <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
