@@ -13,7 +13,7 @@
     <a target="_blank" href="https://github.com/travisbyr">README.md</a> •
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blueviolet&label=Profile+Views&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
   </p>
 <br>
 </div>
