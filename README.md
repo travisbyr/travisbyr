@@ -11,6 +11,8 @@
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
     <a target="_blank" href="https://travisbyr.github.io">Blog</a> •
     <a target="_blank" href="https://github.com/travisbyr">README.md</a> •
+  </p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=green">
   </p>
   <br> 
