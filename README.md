@@ -44,5 +44,5 @@
 
 <div align="center">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
-  <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+  <img height="170" src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
 </div>
