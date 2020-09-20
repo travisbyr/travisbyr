@@ -9,7 +9,7 @@
   <p align="center">
     <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
-    <a target="_blank" href="https://travisbyr.me">My Portfolio</a> •
+    <a target="_blank" href="https://travisbyr.me">Portfolio</a> •
     <a target="_blank" href="https://github.com/travisbyr">README.md</a>
   </p>
   <p align="center">
@@ -43,6 +43,6 @@
 <h3>📚 Programming languages I like.</h3>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/7a222a55e119c5abe4d4e21e72066b5cca40f67f/68747470733a2f2f616e64797275777275772e76657263656c2e6170702f6170692f736b696c6c73">
+  <img src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
 </div>
