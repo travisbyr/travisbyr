@@ -43,6 +43,6 @@
 <h3>📚 Programming languages I like.</h3>
 
 <div align="center">
-  <img height="70" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
+  <img height="120" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
 </div>
