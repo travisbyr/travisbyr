@@ -9,7 +9,7 @@
   <p align="center">
     <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
-    <a target="_blank" href="https://travisbyr.netlify.app">Portfolio</a> •
+    <a target="_blank" href="https://travisbyr.me">Portfolio</a> •
     <a target="_blank" href="https://github.com/travisbyr">README.md</a>
   </p>
   <p align="center">
