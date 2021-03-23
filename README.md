@@ -23,6 +23,10 @@
   <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://github.com/travisbyr/andyruwruw/blob/master/example/now-playing.svg">
   </a>
+
+
+  <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
+
     <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
   </a>
@@ -45,5 +49,4 @@
 <div align="center">
   <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
-  <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
 </div>
