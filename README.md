@@ -45,6 +45,7 @@
 <div align="center">
   <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+  <hr>
   <div align="center">
     <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
     <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
