@@ -23,15 +23,12 @@
   <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://github.com/travisbyr/andyruwruw/blob/master/example/now-playing.svg">
   </a>
-
-
-  <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
-
     <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
   </a>
   <hr>
 </div>
+  <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
 <h3>🤘🏻 Here are my statistics.</h3>
 <br>
 <div align="center">
