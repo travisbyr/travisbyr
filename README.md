@@ -28,7 +28,6 @@
   </a>
   <hr>
 </div>
-  <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
 <h3>🤘🏻 Here are my statistics.</h3>
 <br>
 <div align="center">
@@ -46,4 +45,8 @@
 <div align="center">
   <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+  <div align="center">
+    <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
+    <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/munch.gif">
+  </div>
 </div>
