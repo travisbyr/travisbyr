@@ -5,7 +5,7 @@
   <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
   <br>
 <br>
-  <h3><img height="60" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"></img>Hello there, I'm Travis. :motorcycle:</h3>
+  <h3><img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"></img>Hello there, I'm Travis. :motorcycle:</h3>
   <p align="center">
     <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
