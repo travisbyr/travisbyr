@@ -8,7 +8,7 @@
     <!-- <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> • -->
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
     <a target="_blank" href="https://travisbyr.me">Portfolio</a> •
-    <a target="_blank" href="https://github.com/travisbyr">README.md</a>
+    <a target="_blank" href="https://github.com/travisbyr/travisbyr">README.md</a>
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
