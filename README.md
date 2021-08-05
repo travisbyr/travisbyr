@@ -1,6 +1,7 @@
 <div align="center">
   <br>
-  <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
+  <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif"> -->
+  <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/coolGif2.gif">
   <br>
 <br>
   <h3>Hello there, I'm Travis. <img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"></img></h3>
