@@ -1,13 +1,11 @@
 <div align="center">
   <br>
-  <!-- <img width="400" src="https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif"> -->
-  <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
-  <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracyIsACrime.gif"> -->
+  <!-- <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif"> -->
   <br>
 <br>
   <h3>Hello there, I'm Travis. <img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"></img></h3>
   <p align="center">
-    <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> •
+    <!-- <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> • -->
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
     <a target="_blank" href="https://travisbyr.me">Portfolio</a> •
     <a target="_blank" href="https://github.com/travisbyr">README.md</a>
