@@ -34,6 +34,7 @@
   <a href="https://github.com/travisbyr/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&count_private=true&theme=radical&langs_count=10" />
   </a>
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true"" alt="travisbyr's github stats" />
 </div>
 <br>
 <hr>
