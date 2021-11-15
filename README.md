@@ -27,7 +27,7 @@
     <a href="https://profile-spotify-app-tau.vercel.app/now-playing?open">
       <img src="https://profile-spotify-app-tau.vercel.app/top-played">
     </a>
-    
+
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
   <hr>
 </div>
@@ -48,6 +48,8 @@
 <div align="center">
   <!-- <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png"> -->
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+  <img href="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
+
   <!-- <hr>
   <div align="center">
     <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/coolGif3.gif">
