@@ -20,7 +20,6 @@
 <div align="center"> 
   <hr>
     <!-- <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing"> -->
-    <h3>test</h3>
     <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
   <hr>
     <img src="https://profile-spotify-app-tau.vercel.app/top-played">
