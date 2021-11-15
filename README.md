@@ -19,7 +19,7 @@
 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet dui in orci efficitur, a molestie felis interdum. Phasellus non imperdiet metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus et consequat risus. Sed in leo non odio sollicitudin luctus. Pellentesque eget ipsum facilisis, aliquet dui vitae, scelerisque diam. Sed pulvinar euismod libero, ac consectetur nibh tempus eget. Nam sagittis, lorem nec consectetur imperdiet, sem metus blandit mauris, et blandit est diam vitae sapien.</p> -->
 <div align="center"> 
   <hr>
-    <!-- <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing"> -->
+    <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
     <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
   <hr>
     <img src="https://profile-spotify-app-tau.vercel.app/top-played">
@@ -42,7 +42,7 @@
 <h3>📚 Programming languages I like.</h3>
 
 <div align="center">
-  <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png">
+  <!-- <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png"> -->
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
   <!-- <hr>
   <div align="center">
