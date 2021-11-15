@@ -48,7 +48,7 @@
 <div align="center">
   <!-- <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png"> -->
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
-  <img height="210" src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png">
+  <img height="205" src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png">
 
   <!-- <hr>
   <div align="center">
