@@ -23,8 +23,6 @@
     <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
   <hr>
     <img src="https://profile-spotify-app-tau.vercel.app/top-played">
-
-
   <hr>
 </div>
 <h3>🤘🏻 Here are my statistics.</h3>
