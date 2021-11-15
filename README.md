@@ -3,13 +3,13 @@
   <img width="400" src="https://github.com/travisbyr/travisbyr/blob/master/images/piracy.gif">
   <br>
 <br>
-  <h3>Hello there, I'm Travis. <a><img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"/></a></h3>
+  <h3>Hello there, I'm Travis. <img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"/></h3>
   <p align="center">
     <!-- <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> • -->
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
     <a target="_blank" href="https://travisbyr.github.io/myPortfolio/">Portfolio</a> •
     <a target="_blank" href="https://www.linkedin.com/in/travisbyr/">LinkedIn</a> •
-    <a target="_blank" href="https://github.com/travisbyr/travisbyr">README.md</a>
+    <a target="_blank" href="https://profile-spotify-app-tau.vercel.app/now-playing?open">Spotify</a>
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
