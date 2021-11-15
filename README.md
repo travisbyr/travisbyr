@@ -20,10 +20,14 @@
 <div align="center"> 
   <hr>
     <!-- <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing"> -->
-    <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
+    <a href="https://profile-spotify-app-tau.vercel.app/now-playing?open">
+      <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
+    </a>
   <hr>
-    <img src="https://profile-spotify-app-tau.vercel.app/top-played">
-    <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+    <a href="https://profile-spotify-app-tau.vercel.app/now-playing?open">
+      <img src="https://profile-spotify-app-tau.vercel.app/top-played">
+    </a>
+    
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
   <hr>
 </div>
