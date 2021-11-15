@@ -5,7 +5,6 @@
 <br>
   <h3>Hello there, I'm Travis. <img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"/></h3>
   <p align="center">
-    <!-- <a target="_blank" href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">Spotify</a> • -->
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
     <a target="_blank" href="https://travisbyr.github.io/myPortfolio/">Portfolio</a> •
     <a target="_blank" href="https://www.linkedin.com/in/travisbyr/">LinkedIn</a> •
@@ -44,12 +43,11 @@
 <br>
 <hr>
 <h3>📚 Programming languages I like.</h3>
-
 <div align="center">
-  <!-- <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png"> -->
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
   <img height="203" src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png">
 
+  <!-- <img height="190" src="https://github.com/travisbyr/travisbyr/blob/master/images/1.png"> -->
   <!-- <hr>
   <div align="center">
     <img width="200" src="https://github.com/travisbyr/travisbyr/blob/master/images/coolGif3.gif">
