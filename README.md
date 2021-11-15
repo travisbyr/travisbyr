@@ -23,6 +23,8 @@
     <img src="https://profile-spotify-app-tau.vercel.app/now-playing">
   <hr>
     <img src="https://profile-spotify-app-tau.vercel.app/top-played">
+    <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
   <hr>
 </div>
 <h3>🤘🏻 Here are my statistics.</h3>
