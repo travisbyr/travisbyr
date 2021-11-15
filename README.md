@@ -22,7 +22,7 @@
   <!-- <a href="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing?open">    
     <img src="https://github.com/travisbyr/andyruwruw/blob/master/example/now-playing.svg">
   </a>  --> 
-    <img src="https://andyruwruw-now-playing-spotify-git-master.travisbyr.vercel.app/api/now-playing">
+    <img src="https://profile-spotify-app-five.vercel.app/api/now-playing">
   <hr>
 </div>
 <h3>🤘🏻 Here are my statistics.</h3>
