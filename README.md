@@ -11,7 +11,7 @@
     <a target="_blank" href="https://profile-spotify-app-tau.vercel.app/now-playing?open">Spotify</a>
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=plastic">
+    <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
   </p>
 <br>
 </div>
