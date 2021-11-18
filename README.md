@@ -10,6 +10,9 @@
     <a target="_blank" href="https://www.linkedin.com/in/travisbyr/">LinkedIn</a> •
     <a target="_blank" href="https://profile-spotify-app-tau.vercel.app/now-playing?open">Spotify</a>
   </p>
+    <p align="center">
+    <img src="https://wakatime.com/badge/user/04211466-6fc9-494a-b87b-e3d2974376c2.svg">
+  </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
   </p>
