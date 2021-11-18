@@ -10,9 +10,6 @@
     <a target="_blank" href="https://www.linkedin.com/in/travisbyr/">LinkedIn</a> •
     <a target="_blank" href="https://profile-spotify-app-tau.vercel.app/now-playing?open">Spotify</a>
   </p>
-    <p align="center">
-    <img src="https://wakatime.com/badge/user/04211466-6fc9-494a-b87b-e3d2974376c2.svg">
-  </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ytravisbyr&color=blue&label=Profile+Views&style=flat-square">
   </p>
@@ -43,9 +40,13 @@
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&count_private=true&theme=radical&langs_count=10" />
   </a>
 </div>
+<div align="center">
+  <br/>
+  <img src="https://wakatime.com/badge/user/04211466-6fc9-494a-b87b-e3d2974376c2.svg"/>
+</div>
 <br>
 <hr>
-<h3>📚 Programming languages I like.</h3>
+<h3>📚 Programming languages I like.</h3> 
 <div align="center">
   <img src="https://github.com/travisbyr/travisbyr/blob/master/images/js.png">
   <img height="203" src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png">
