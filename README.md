@@ -6,7 +6,7 @@
   <h3>Hello there, I'm Travis. <img height="20" src="https://github.com/travisbyr/travisbyr/blob/master/images/wave.gif"/></h3>
   <p align="center">
     <a target="_blank" href="https://github.com/travisbyr">GitHub</a> •
-    <a target="_blank" href="https://travisbyr.github.io/myPortfolio/">Portfolio</a> •
+    <a target="_blank" href="https://travisbyr.me/">Portfolio</a> •
     <a target="_blank" href="https://www.linkedin.com/in/travisbyr/">LinkedIn</a> •
     <a target="_blank" href="https://profile-spotify-app-tau.vercel.app/now-playing?open">Spotify</a>
   </p>
