@@ -30,7 +30,7 @@
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
   <hr>
 </div>
-<h3><pre><code><span style="font-weight:100;">🤘🏻</span></pre></code> Here are my statistics.</h3>
+<h3>🤘🏻 Here are my statistics.</h3>
 <br>
 <div align="center">
   <a href="https://github.com/travisbyr/github-readme-stats">
