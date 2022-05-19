@@ -33,14 +33,14 @@
 <h3>:metal: Here are my statistics.</h3>
 <br>
 <div align="center">
-  <a href="https://github.com/travisbyr/github-readme-stats">
+<!--   <a href="https://github.com/travisbyr/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=travisbyr&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="travisbyr's github stats" />
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/travisbyr/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&count_private=true&theme=radical&langs_count=10" />
   </a> -->
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=travisbyr)]
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&langs_count=10)
+  [willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=travisbyr)
  
 </div>
 <div align="center">
