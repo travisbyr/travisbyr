@@ -40,7 +40,7 @@
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisbyr&layout=compact&count_private=true&theme=radical&langs_count=10" />
   </a>
  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=travisbyr"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=travisbyr"/> -->
   
   
 </div>
